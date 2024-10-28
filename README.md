@@ -1,3 +1,3 @@
 # My Github Projects
 
-- Testimonial Card:
+- Testimonial Card: https://andrewsnapz.github.io/testiomonial-card/
