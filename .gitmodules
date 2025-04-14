@@ -4,3 +4,6 @@
 [submodule "collections-grid"]
 	path = collections-grid
 	url = https://github.com/andrewsnapz/collections-grid
+[submodule "greatfrontend-library-button"]
+	path = greatfrontend-library-button
+	url = https://github.com/andrewsnapz/greatfrontend-library-button.git
