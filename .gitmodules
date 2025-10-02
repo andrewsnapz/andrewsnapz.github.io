@@ -7,3 +7,6 @@
 [submodule "greatfrontend-library-button"]
 	path = greatfrontend-library-button
 	url = https://github.com/andrewsnapz/greatfrontend-library-button.git
+[submodule "notifications-settings-angular"]
+	path = notifications-settings-angular
+	url = https://github.com/andrewsnapz/notifications-settings-angular
