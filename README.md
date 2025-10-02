@@ -8,4 +8,4 @@ React
 
 Angular
 
-- [Notification Settings](https://github.com/andrewsnapz/notifications-settings-angular)
+- [Notification Settings](https://andrewsnapz.github.io/notification-settings)
